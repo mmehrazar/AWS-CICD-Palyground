@@ -1,17 +1,15 @@
 Read me
 
     ami-0b043d7dc31a5fba6
-
-    Technologies
+Technologies
 
          -Docker
          -Minikube 
          -Eksctl
          -Flux
     
-
-    Deployment        
-        https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#AMICatalog:
+Deployment        
+https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#AMICatalog:
 
         Go to "Community AMIs" and search for "ami-0b043d7dc31a5fba6"  => Lunch Instance with AMI
         
@@ -23,10 +21,10 @@ Read me
 
             Run "$ aws configure" to set the EKS-user-Creditails.
 
- TEKTON-FLUX-PIPELINE
+TEKTON-FLUX-PIPELINE
 
     
-    ami-0f2ccf6c89812b5c3
+ami-0f2ccf6c89812b5c3
 
     Technologies    
 
@@ -36,12 +34,12 @@ Read me
         -Flux
         -Tekton
     
-    Deployment
-        https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#AMICatalog:
+Deployment
+https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#AMICatalog:
 
         Go to "Community AMIs" and search for "ami-0f2ccf6c89812b5c3"  => Lunch Instance with AMI
 
-            https://github.com/mmehrazar/my-repo.git
+https://github.com/mmehrazar/my-repo.git
         
 
         
