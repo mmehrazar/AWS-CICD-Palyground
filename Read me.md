@@ -1,4 +1,4 @@
-Read me
+README
 
     ami-0a6cb678bd2253f6c
 
