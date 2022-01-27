@@ -1,5 +1,3 @@
-# AWS-CICD-Palyground
-AWS-CICD-Palyground
 Read me
 
     ami-0b043d7dc31a5fba6
@@ -14,7 +12,8 @@ Read me
 
     Deployment        
         https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#AMICatalog:
-        Go to "Community AMIs" and search for "ami-0b043d7dc31a5fba6"  => Lunch Instance with AMI
+
+        Go to "Community AMIs" and search for "ami-0b043d7dc31a5fba6"  => Lunch Instance with AMI
         
         K8s 
         This application can be easily deployed using minikube
@@ -24,7 +23,8 @@ Read me
 
             Run "$ aws configure" to set the EkS-user-Creditails.
 
-           
+ TEKTON-FLUX-PIPELINE
+
     
     ami-0f2ccf6c89812b5c3
 
