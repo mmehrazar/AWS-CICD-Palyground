@@ -11,7 +11,7 @@ Technologies
 Deployment        
 https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#AMICatalog:
 
-        Go to "Community AMIs" and search for "ami-0b043d7dc31a5fba6"  => Lunch Instance with AMI
+        Go to "My AMIs" and search for "ami-0b043d7dc31a5fba6"  => Lunch Instance with AMI
         
         K8s 
         This application can be easily deployed using minikube
