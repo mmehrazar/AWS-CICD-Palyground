@@ -21,7 +21,7 @@ Read me
         Eksctl
             For using EKS cluster you will need an user with EkS "AmazonEKSClusterPolicy" & "AmazoneEKSWorkerNodePolicy" attachted to it.
 
-            Run "$ aws configure" to set the EkS-user-Creditails.
+            Run "$ aws configure" to set the EKS-user-Creditails.
 
  TEKTON-FLUX-PIPELINE
 
