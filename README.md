@@ -2,7 +2,7 @@
 AWS-CICD-Palyground
 Read me
 
-    ami-0a6cb678bd2253f6c
+    ami-0b043d7dc31a5fba6
 
     Technologies
 
@@ -14,7 +14,6 @@ Read me
 
     Deployment        
         https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#AMICatalog:
-
         Go to "Community AMIs" and search for "ami-0b043d7dc31a5fba6"  => Lunch Instance with AMI
         
         K8s 
